@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #373737;
+}
 .header{
     background-color: #a50505;
     font-size: larger;
@@ -7,4 +12,11 @@
 a {
     color: blanchedalmond;
 
+}
+
+.container-header{
+    text-align: center;
+    margin: 50px 0;
+    background-color: #d6d6d6;
+    padding: 25px 0;
 }
