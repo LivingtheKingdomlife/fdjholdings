@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Montserrat:wght@300&family=Poppins:wght@300&family=Roboto+Condensed&family=Ubuntu&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', san;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1, h2, h3, h4, h5, p {
@@ -20,3 +20,4 @@ ol, ul{
     padding: 0 4rem;
     margin-bottom: .5em;
 }
+
